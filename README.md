@@ -12,7 +12,7 @@ Congratulations for learning some programming tools, which can later help you to
 <font color="green">Structure of the course</font>
 - Prior course on Nov 26th: (custom study)
     - Download Anaconda
-    - Follow _____ to learn basics of pandas
+    - Follow 02_getting_started.ipynb to learn basics of pandas
 - Durign course on Nov 26th: (groups, supervised)
     - We will form groups consisting of 4 people per group
     - We will write our own version of https://www.ncbi.nlm.nih.gov/gene , which will - in contrast to the official one - also add information from orthologous genes. Distinct groups will write code for distinct information that will be shown. 
